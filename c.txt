@@ -1,0 +1,1 @@
+read all line and read all bytes
